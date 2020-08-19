@@ -5,3 +5,4 @@ compiler:
 
 script:
     - g++ nat_flow.cpp -o nat_flow
+    - ./nat_flow
